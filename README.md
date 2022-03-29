@@ -1,2 +1,3 @@
-# Phishing-URL-Detector
-A Flask Based Web Application which is used to detect the phishing URL's.
+# Anti Phisher
+Afraid of being phished?
+Fear no more, To detect the phishing URL's. we have developed a Flask based Web Application.
