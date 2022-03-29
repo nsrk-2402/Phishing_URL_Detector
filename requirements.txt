@@ -45,7 +45,6 @@ demjson==2.2.4
 distlib==0.3.1
 dj-database-url==0.5.0
 dj-static==0.0.6
--e git+https://github.com/django/django.git@1697098795707bd39501d9ceddd3d9be93f8d549#egg=Django
 django-bootstrap4==3.0.1
 django-crispy-forms==1.11.2
 django-ipware==3.0.2
@@ -135,7 +134,6 @@ msgpack==0.5.6
 multitasking==0.0.10
 murmurhash==1.0.6
 mysql-connector-python==8.0.23
-mysqlclient @ file:///C:/crt/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
 nbclient==0.5.9
 nbconvert==6.4.0
 nbformat==5.1.3
