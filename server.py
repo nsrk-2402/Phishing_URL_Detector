@@ -40,12 +40,12 @@ def hello():
 			with open("files/URL.txt","wb") as f:
 				f.write(contents)
 			file.save = (os.path.join(app.config['UPLOAD_FOLDER'], filename))
-			return render_template("index.html")
-	return  render_template("index.html")
+			return render_template("home.html")
+	return  render_template("home.html")
 
-@app.route('/about', methods = ['GET', 'POST'])
-def about_page():
-	return  render_template("about.html")
+@app.route('/index', methods = ['GET', 'POST'])
+def index_page():
+	return  render_template("index.html")
 			
 
 
